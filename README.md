@@ -26,7 +26,7 @@ Developed as part of the HY359 coursework.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/snakes-and-ladders-csd.git
+   git clone https://github.com/christosfys/snakes-and-ladders-csd.git
 Navigate into the project folder:
 
 2. cd snakes-and-ladders-csd
